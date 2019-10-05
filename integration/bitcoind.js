@@ -6,7 +6,7 @@ var chai = require('chai');
 var should = chai.should();
 var sinon = require('sinon');
 
-var dashcore = require('@dashevo/dashcore-lib');
+var dashcore = require('@csio.company/dashcore-lib');
 var _ = dashcore.deps._;
 var Random = dashcore.crypto.Random;
 var BN = dashcore.crypto.BN;

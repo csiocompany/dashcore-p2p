@@ -4,7 +4,7 @@ var chai = require('chai');
 var should = chai.should();
 
 var assert = require('assert');
-var dashcore = require('@dashevo/dashcore-lib');
+var dashcore = require('@csio.company/dashcore-lib');
 var Data = require('./data/messages');
 var P2P = require('../');
 var BloomFilter = P2P.BloomFilter;

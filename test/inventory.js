@@ -4,7 +4,7 @@
 
 var should = require('chai').should();
 
-var dashcore = require('@dashevo/dashcore-lib');
+var dashcore = require('@csio.company/dashcore-lib');
 var P2P = require('../');
 var Inventory = P2P.Inventory;
 var BufferUtils = dashcore.util.buffer;

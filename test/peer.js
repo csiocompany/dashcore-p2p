@@ -10,7 +10,7 @@ var expect = chai.expect;
 var sinon = require('sinon');
 var fs = require('fs');
 
-var dashcore = require('@dashevo/dashcore-lib');
+var dashcore = require('@csio.company/dashcore-lib');
 var _ = dashcore.deps._;
 var P2P = require('../');
 var Peer = P2P.Peer;

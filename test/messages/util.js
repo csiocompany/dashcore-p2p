@@ -4,7 +4,7 @@
 
 var should = require('chai').should();
 var utils = require('../../lib/messages/utils');
-var dashcore = require('@dashevo/dashcore-lib');
+var dashcore = require('@csio.company/dashcore-lib');
 var BufferReader = dashcore.encoding.BufferReader;
 
 describe('Message Utils', function() {
