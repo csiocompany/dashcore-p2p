@@ -1,5 +1,5 @@
 {
-  "name": "@dashevo/dashcore-p2p",
+  "name": "@csio.company/dashcore-p2p",
   "version": "1.2.0",
   "description": "Interface to the dash P2P network for Dashcore",
   "author": "BitPay <dev@bitpay.com>",
@@ -49,7 +49,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dashevo/dashcore-p2p.git"
+    "url": "https://github.com/csiocompany/dashcore-p2p.git"
   },
   "dependencies": {
     "@dashevo/dashcore-lib": "^0.17.6",
